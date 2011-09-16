@@ -1,0 +1,14 @@
+{
+  "author": "Egor Egorov <me@egorfine.com>",
+  "name": "linestream",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/egorFiNE/node-linestream.git"
+  },
+  "main": "index.js",
+  "engines": {
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
